@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+requests
+crewai==1.9.3
+crewai-tools==1.9.3
+langgraph
+langchain-community
+litellm
+fastapi
